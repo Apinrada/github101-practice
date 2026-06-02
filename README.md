@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Apinrada Pangnuan | Team 12 | Project Manager | https://github.com/Apinrada/github101-practice/blob/4cc79b3f569571b74ad48734aa05c05bb940d492/docs/evidence/67050585-apinrada.md | - |
+| Apinrada Pangnuan | Team 12 | Project Manager | https://github.com/Apinrada/github101-practice/blob/4cc79b3f569571b74ad48734aa05c05bb940d492/docs/evidence/67050585-apinrada.md | https://github.com/Apinrada/github101-practice/blob/c1547a37a06bd8e4be766d868403c877c3f12fa5/docs/issues/67050585-apinrada |
 
 ---
 
